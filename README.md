@@ -40,8 +40,9 @@ STEP 5:Include Necessary parameters in each functions.
 ![image](https://github.com/user-attachments/assets/c4299f3a-4b7c-400c-89d5-68e983299e4f)
 ![image](https://github.com/user-attachments/assets/b3a4a7fc-c9a2-425e-8dd2-c0a2352165e7)
 ![image](https://github.com/user-attachments/assets/6366d498-a168-4483-ac82-36dc6e37827f)
-
+![image](https://github.com/user-attachments/assets/78b7a0ac-4945-4350-a8e7-79efc8199d4a)
+![image](https://github.com/user-attachments/assets/bfb4c5e9-a2e1-4591-8ea0-562e4f7c54f3)
 
 
 # Result:
- Include your result here
+Thus,all the data visualization technigues of seaborn has been implemented.
